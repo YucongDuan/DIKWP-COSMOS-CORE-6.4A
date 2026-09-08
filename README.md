@@ -1,5 +1,7 @@
 # DIKWP-COSMOS CORE 6.4A — Final Delivery
 
+Created by Yucong Duan (段玉聪).
+
 ## Core proposition
 
 The model interprets the "ultimate secret" of the universe as open self-generation rather than a hidden final substance: occurrences retained as D become consequential differences I; reusable relations become K; possible continuations are ordered as W; a not-yet-realized state is selected as P; P then changes what happens next.
@@ -8,10 +10,10 @@ This is an axiom-split system. The unified-consciousness view can be enabled as 
 
 ## Delivery layers
 
-1. **Interactive exhibit** — polished, single-file HTML with three interpretive modes, five DIKWP roles, five scales, twelve ultimate questions, informational-tuning simulation and JSON export.
-2. **Deterministic evidence core** — installable Python package, append-only D/I/K/W/P ledger, active-probe experiments, informational-routing comparison, collective-K test and axiom firewall.
-3. **Technical report** — DOCX and PDF explaining the model, evidence boundary and next discriminating research.
-4. **Machine-readable artifacts** — model specification, reference summary, verification, conformance, SBOM and SHA-256 manifest.
+1. Interactive exhibit — polished, single-file HTML with three interpretive modes, five DIKWP roles, five scales, twelve ultimate questions, informational-tuning simulation and JSON export.
+2. Deterministic evidence core — installable Python package, append-only D/I/K/W/P ledger, active-probe experiments, informational-routing comparison, collective-K test and axiom firewall.
+3. Technical report — DOCX and PDF explaining the model, evidence boundary and next discriminating research.
+4. Machine-readable artifacts — model specification, reference summary, verification, conformance, SBOM and SHA-256 manifest.
 
 ## Quick start
 
